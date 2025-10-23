@@ -7,4 +7,4 @@ Usage:
   Load env vars:    .\Load-DotEnv.ps1 .env  
   Remove env vars:  .\Load-DotEnv.ps1 .env -Remove  
 
-/!\ It trims the following characters off of the value `'`, `"`, ` `
+/!\ It trims the following characters off the value `'`, `"`, ` `
