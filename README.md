@@ -1,5 +1,5 @@
 # load_env
-Powershell scripts that loads a .env file into the environement variables.
+Powershell script that loads a .env file into the environement variables.
 
 ## Usage
   Load env vars:    .\Load-DotEnv.ps1 .env  
